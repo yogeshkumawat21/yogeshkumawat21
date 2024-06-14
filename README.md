@@ -4,13 +4,12 @@
 <h3 align="center">A Versatile Java Full Stack Developer from India</h3>
 <br>
 <br>
-<img align="right" alt="coding" width="100vw" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+<img align="center" style="width:100vw; height:450px;" alt="coding" width="100vw" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 <br>
 <br>
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=yogeshkumawat21&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshkumawat21" /> </p>
+<p align="left" style="padding:20px" > <img src="https://komarev.com/ghpvc/?username=yogeshkumawat21&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshkumawat21" /> </p>
 
-<p align="left" margin-right="20px" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshkumawat21" alt="yogeshkumawat21" /></a> </p>
 
 - 🌱 I’m currently learning **React , SpringBoot , Hibernate**
 
