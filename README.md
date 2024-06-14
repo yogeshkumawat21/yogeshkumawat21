@@ -40,7 +40,8 @@
 <a href="https://www.leetcode.com/yogesh21kumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yogesh21kumawat" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
 </p>
 
-
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshkumawat21&show_icons=true&locale=en&layout=compact" alt="yogeshkumawat21" /></p>
 
