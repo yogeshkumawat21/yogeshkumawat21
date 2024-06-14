@@ -4,11 +4,11 @@
 <h3 align="center">A Versatile Java Full Stack Developer from India</h3>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshkumawat21&show_icons=true&locale=en&layout=compact" alt="yogeshkumawat21" /></p>
+
 
 <img align="center" style="width:100vw; height:450px;" alt="coding" width="100vw" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 <br>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshkumawat21&show_icons=true&locale=en&layout=compact" alt="yogeshkumawat21" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yogeshkumawat21&show_icons=true&locale=en" alt="yogeshkumawat21" /></p>
 
