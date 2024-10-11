@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yogesh Kumawat</h1>
 
-<h3 align="center">A Versatile Java Full Stack Developer from India</h3>
+<h3 align="center">A Versatile Java Full Stack Developer at @Dotsquares Jaipur</h3>
 <br>
 
 <img align="center" style="width:100vw; height:450px;" alt="coding" width="100vw" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
